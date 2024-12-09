@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/SaeedJamaly/saeedjamalifasahi.git/static/css/main.f459e040.css",
-    "main.js": "/SaeedJamaly/saeedjamalifasahi.git/static/js/main.c5e10540.js",
-    "static/js/453.a1165bb6.chunk.js": "/SaeedJamaly/saeedjamalifasahi.git/static/js/453.a1165bb6.chunk.js",
-    "static/media/poppins-latin-400-normal.woff": "/SaeedJamaly/saeedjamalifasahi.git/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
-    "static/media/poppins-latin-400-normal.woff2": "/SaeedJamaly/saeedjamalifasahi.git/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
-    "static/media/poppins-latin-ext-400-normal.woff": "/SaeedJamaly/saeedjamalifasahi.git/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
-    "static/media/poppins-latin-ext-400-normal.woff2": "/SaeedJamaly/saeedjamalifasahi.git/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
-    "index.html": "/SaeedJamaly/saeedjamalifasahi.git/index.html",
-    "main.f459e040.css.map": "/SaeedJamaly/saeedjamalifasahi.git/static/css/main.f459e040.css.map",
-    "main.c5e10540.js.map": "/SaeedJamaly/saeedjamalifasahi.git/static/js/main.c5e10540.js.map",
-    "453.a1165bb6.chunk.js.map": "/SaeedJamaly/saeedjamalifasahi.git/static/js/453.a1165bb6.chunk.js.map"
+    "main.css": "/saeedjamalifasahi/static/css/main.2fef964f.css",
+    "main.js": "/saeedjamalifasahi/static/js/main.5d2a9973.js",
+    "static/js/453.a1165bb6.chunk.js": "/saeedjamalifasahi/static/js/453.a1165bb6.chunk.js",
+    "static/media/poppins-latin-400-normal.woff": "/saeedjamalifasahi/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/saeedjamalifasahi/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/saeedjamalifasahi/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/saeedjamalifasahi/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
+    "index.html": "/saeedjamalifasahi/index.html",
+    "main.2fef964f.css.map": "/saeedjamalifasahi/static/css/main.2fef964f.css.map",
+    "main.5d2a9973.js.map": "/saeedjamalifasahi/static/js/main.5d2a9973.js.map",
+    "453.a1165bb6.chunk.js.map": "/saeedjamalifasahi/static/js/453.a1165bb6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f459e040.css",
-    "static/js/main.c5e10540.js"
+    "static/css/main.2fef964f.css",
+    "static/js/main.5d2a9973.js"
   ]
 }
