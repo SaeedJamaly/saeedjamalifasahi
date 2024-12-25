@@ -1,3 +1,15 @@
-# https://www.robotstxt.org/robotstxt.html
+# Allow all user agents
 User-agent: *
-Disallow:
+
+# Disallow sensitive or irrelevant areas
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+
+# Allow access to important assets
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Specify the location of your sitemap
+Sitemap: https://codeandverse.info/sitemap.xml
