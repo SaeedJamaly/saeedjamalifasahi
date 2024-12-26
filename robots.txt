@@ -10,6 +10,7 @@ Disallow: /private/
 Allow: /css/
 Allow: /js/
 Allow: /images/
+Allow: /sitemap.xml/
 
 # Specify the location of your sitemap
 Sitemap: https://codeandverse.info/sitemap.xml
