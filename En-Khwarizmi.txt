@@ -1,0 +1,23 @@
+Muhammad ibn Musa Khwarizmi was a Persian mathematician, astronomer, and geographerof the 8th century. He is best known for his groundbreaking work in mathematics, particularly for writing the book *Al-Jabr* or English name *The Compendious Book on Calculation by Completion and Balancing*, which is the source of the term "algebra" and "Algorithm".
+<br />
+<br />
+His work laid the foundation for solving linear and quadratic equations and contributed significantly to the development of mathematics in both the Islamic world and later to Europe. Khwarizmi's contributions were essential in advancing the field of algebra and mathematics as a whole.
+<br />
+<br />
+Here is an assumption: During the first one thousand years of Christianity, religion was against the use of signs other than the signs that had already been used by the church. Islam was more restricted in that regard. Algebra is a branch of mathematics in which the use of signs instead of numbers and as variables is widely common. This can be a reason that the church and religion in general was opposing Algebra. Khwarizmi, somehow legalized the use of signs and variables in math. He basically addressed some real-world questions in Islam. Like the problem of assets and capital vs debt. He defined a problem of how to calculate the net inheritance after debts are settled and determine the share of each heir according to their legal entitlement.
+<br />
+<br />
+Khwarizmi's influence on European mathematics cannot be overstated. His works were translated into Latin during the 12th century, which led to the dissemination of his ideas across Europe. The Latin translation of Al-Kitab al-Mukhtasar became a key text for European scholars, contributing significantly to the development of algebra in the Western world. By the 15th century, the term "algebra" had become widely used in European mathematical texts, reflecting the widespread impact of Khwarizmi's work. His systematic approach to solving linear and quadratic equations helped bridge the gap between ancient Greek mathematics and later developments in the Renaissance, where algebra evolved further. 
+<br />
+<br />
+One of the most famous English translations of Khwarizmi's work is The Compendious Book on Calculation by Completion and Balancing, translated by Frederic Rosen in 1831. This translation made Khwarizmi's influential work more accessible to Western audiences and played a crucial role in the 19th-century revival of interest in Islamic mathematics. Rosen’s translation was instrumental in introducing algebraic methods to a broader audience, contributing to the integration of Islamic mathematical heritage into the history of Western science and mathematics.
+<br />
+<br />
+The 20th-century mathematician, historian and philosopher of science, Roshdi Rashed, has made significant contributions to the study of Khwarizmi's work. His book "Al-Khwarizmi: The Beginnings of Algebra" 
+or "Al-Khwarizmi: Les débuts de l'algèbre" in French is a comprehensive study of al-Khwarizmi’s contributions to the field of mathematics, particularly focusing on the foundational role he played in the development of algebra.
+Rashed's research focuses on the historical context and intellectual impact of Khwarizmi, shedding light on how his ideas were transmitted to both the Islamic world and the West. His work emphasizes the importance of Khwarizmi’s contributions to the development of mathematical thought and their long-lasting influence on both Eastern and Western traditions. 
+Rashed's scholarship has played a pivotal role in revitalizing the study of science and mathematics, helping to ensure that figures like Khwarizmi receive the recognition they deserve for their monumental achievements.
+<br />
+<br />
+Muhammad ibn Musa Khwarizmi’s contributions to mathematics were not only groundbreaking for his time but also had a profound influence on the development of modern mathematical concepts, including algebra and algorithms. His work provided the foundation for solving linear and quadratic equations, and his innovations in the use of signs and variables in mathematics paved the way for future advancements in both Iran (Persia), its region and Europe. 
+The legacy of Khwarizmi continues to shape the world of mathematics, and his influence is still felt today in the fields of computer science, artificial intelligence, and beyond.
